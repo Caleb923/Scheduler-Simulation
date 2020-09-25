@@ -15,11 +15,11 @@ sudo apt-get install build-essential
 ```
 Compile with:
 ```bash
-gcc scheduler.c -o scheduler
+gcc scheduler simulation.c -o scheduler
 ```
 Run with:
 ```bash
-./scheduler
+./scheduler simulation
 ```
 
 
